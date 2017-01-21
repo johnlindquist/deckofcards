@@ -1,4 +1,14 @@
-# deckofcards
+# This is a Fork of deckofcardsapi.com
+All credit to https://github.com/crobertsbmw/deckofcards
+
+The only purpose of this repo was to host a version for myself.
+I created the Dockerfile.
+If you want to host your own version
+* Fork this repo
+* `find/replace all deck.johnlindquist.com with your host location`
+* I used `now` to deploy the dockerfile: https://zeit.co/now
+
+## deckofcards
 An API to simulate a deck of cards
 
 The docs are on http://deck.johnlindquist.com
